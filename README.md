@@ -53,9 +53,6 @@ Micronutrient distributions in plantation soils are governed by coupled controls
 ### Key R packages (indicative)
 `lme4`, `lmerTest`, `emmeans`, `performance` (R²), `vegan` (PERMANOVA/dbRDA), `ggplot2`, `dplyr`, `readr`
 
-> Update this list to match your actual session info and lockfile.
-
-
 
 ## How to cite
 It will be updated soon
