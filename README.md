@@ -32,10 +32,9 @@ Micronutrient distributions in plantation soils are governed by coupled controls
 - Moderation analyses using intensity-based thinning/pruning parameterisation (+10% units) to test **Age × management** and **Depth × management** structure.
 - Multivariate analysis of joint Fe–Cu–Mn–Zn profiles using **PERMANOVA** and conditional ordination (partial dbRDA) to evaluate whether thinning–pruning combinations produce coordinated multielement shifts beyond age–depth structuring.
 
-## Repository structure (recommended)
-
+## Repository structure 
 ## Reproducibility
-### Option A (R; recommended if your analysis is in R)
+### Option A (R;)
 1. Install R (≥ 4.2) and RStudio.
 2. Restore packages (recommended):
    - Use `renv` for reproducibility:
@@ -50,7 +49,7 @@ Micronutrient distributions in plantation soils are governed by coupled controls
    - `scripts/04_figures.R`
    - `scripts/05_tables.R`
 
-### Key R packages (indicative)
+### Key R packages 
 `lme4`, `lmerTest`, `emmeans`, `performance` (R²), `vegan` (PERMANOVA/dbRDA), `ggplot2`, `dplyr`, `readr`
 
 
