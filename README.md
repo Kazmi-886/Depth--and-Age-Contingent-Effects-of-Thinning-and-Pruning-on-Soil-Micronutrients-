@@ -34,20 +34,6 @@ Micronutrient distributions in plantation soils are governed by coupled controls
 
 ## Repository structure (recommended)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Reproducibility
 ### Option A (R; recommended if your analysis is in R)
 1. Install R (≥ 4.2) and RStudio.
@@ -69,19 +55,10 @@ Micronutrient distributions in plantation soils are governed by coupled controls
 
 > Update this list to match your actual session info and lockfile.
 
-## Data availability
-Data sharing may be constrained by site agreements or institutional policies. If raw data cannot be public, this repository can still provide:
-- a de-identified/aggregated dataset sufficient to reproduce models, **or**
-- a synthetic example dataset plus complete scripts, **or**
-- scripts that run on data available upon reasonable request.
 
-(Replace this section with your journal-compliant statement.)
 
 ## How to cite
-Add the final citation after acceptance. Suggested placeholder:
-> Author(s). Year. *Title*. Journal (in review / accepted). DOI: xxx
-
-Include a `CITATION.cff` file to enable GitHub’s citation button.
+It will be updated soon
 
 ## License
 Choose a license appropriate for your target journal and data policy (e.g., MIT for code; CC BY 4.0 for documentation). If data are restricted, clearly separate licensing for code vs. data.
