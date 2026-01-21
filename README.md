@@ -61,7 +61,7 @@ Micronutrient distributions in plantation soils are governed by coupled controls
 It will be updated soon
 
 ## License
-Choose a license appropriate for your target journal and data policy (e.g., MIT for code; CC BY 4.0 for documentation). If data are restricted, clearly separate licensing for code vs. data.
+MIT for code; CC BY 4.0 for documentation. 
 
 ## Contact
 For questions, issues, or requests related to data access, please open an issue or contact the corresponding author.
